@@ -1,4 +1,4 @@
-a)	Lag et program som bruker en while-løkker til å telle fra 0 og oppover. Denne løkken skal kjøre gjentatte ganger, så lenge telleren er mindre enn 5.
+a)	Lag et program som bruker en while-løkke til å telle fra 0 og oppover. Denne løkken skal kjøre gjentatte ganger, så lenge telleren er mindre enn 5.
 
 b)	Lag et program som bruker en while-løkke til å telle ned fra 10 til 1 og deretter skriver ut "Liftoff!" når tellingen når 0.
 
